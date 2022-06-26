@@ -1,0 +1,155 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+    height: 2034px;
+}
+
+body>img {
+    margin-top: 12px;
+}
+
+#menu {
+    background-color: rgb(27, 201, 152);
+    width: 900px;
+    margin-top: -17px;
+}
+
+#menu>ul>li {
+    list-style-type: none;
+    display: inline;
+}
+
+#menu>ul {
+    padding: 5px;
+}
+
+body>h1 {
+    display: inline;
+    width: 455px;
+    margin: 0;
+}
+
+#icons {
+    height: 42px;
+    width: 900px;
+}
+
+#icons>ul {
+    list-style-type: none;
+    float: left;
+    width: 182px;
+    height: 35px;
+    margin-left: 258px;
+    margin-top: -2px;
+}
+
+#icons>ul>li {
+    display: inline;
+}
+
+#icons>ul>li>a>img {
+    width: 33px;
+}
+
+#icons>p {
+    float: left;
+}
+
+#photos {
+    width: 900px;
+}
+
+#photos>ul>li {
+    list-style-type: none;
+    display: inline;
+}
+
+#photos>ul>li>img {
+    width: 225px;
+}
+
+#photos>ul {
+    padding: 0;
+    display: flex;
+    margin-bottom: 0px;
+}
+
+label {
+    display: block;
+}
+
+input {
+    margin-bottom: 16px;
+}
+
+#birthday {
+    width: 165.2px
+}
+
+#container {
+    display: flex;
+    width: 900px;
+}
+
+#left {
+    width: 197px;
+    height: 321px;
+}
+
+#right {
+    width: 703px;
+}
+
+#right>p:nth-child(1)>span {
+    font-weight: bold;
+}
+
+#right>img {
+    width: 703px;
+}
+
+.question {
+    font-weight: bold;
+}
+
+.answer {
+    margin-left: 44px;
+    margin-top: -16px;
+}
+
+footer {
+    width: 900px;
+    height: 93px;
+    background-color: rgb(29, 105, 105);
+}
+
+#select,
+#radio,
+#subscribe {
+    width: 287px;
+    float: left;
+    margin-left: 13px;
+}
+
+#email {
+    display: block;
+}
+
+#select,
+#radio {
+    margin-top: 22px;
+    height: 71px;
+}
+
+#select>select {
+    width: 110px;
+}
+
+#subscribe {
+    margin-top: 6px;
+    height: 87px;
+}
+
+#left>form:nth-child(1)>button:nth-child(9) {
+    width: 67px;
+}
